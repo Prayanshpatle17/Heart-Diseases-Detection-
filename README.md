@@ -100,7 +100,7 @@ pickle.dump(model, open("heart_disease_model.pkl", "wb"))
 pickle.dump(scaler, open("heart_scaler.pkl", "wb"))
 🚀 Installation
 Clone Repository
-git clone https://github.com/yourusername/heart-disease-detection.git
+git clone https://github.com/prayansh_patle17/heart-disease-detection.git
 
 cd heart-disease-detection
 Install Dependencies
